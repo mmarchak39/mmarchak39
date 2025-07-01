@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matt, an <a href="(https://www.linkedin.com/in/matthew-marchak-582608372/)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Matt, an <a href="https://www.linkedin.com/in/matthew-marchak">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
