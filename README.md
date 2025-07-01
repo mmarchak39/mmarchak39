@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mmarchak39/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mmarchak39/azure-network-protocols)
 - <b>PowerShell</b>
-  -  [Powershell: Managing Local User Accounts](https://github.com/mmarchak39/osticket-prereqs)
+  -  [Powershell: Managing Local User Accounts](https://github.com/mmarchak39/powershell-users)
   
 
 <h2>🤳Connect with me:</h2>
